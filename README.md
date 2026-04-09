@@ -299,7 +299,7 @@ Disease-Prediction-and-Medical-Recommendation-System/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/Disease-Prediction-and-Medical-Recommendation-System.git
+git clone https://github.com/Ashish29-glitch/Disease-prediction-and-medical-recommendation-system-.git
 cd Disease-Prediction-and-Medical-Recommendation-System
 
 # 2. Create virtual environment
